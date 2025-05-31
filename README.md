@@ -32,7 +32,7 @@ The primary data source contains the following columns:
 *   `content`: The main body or text content of the news article.
 
 ## Ydata Profiling - Interactive dataset report
-[**Interactly Report View**](https://htmlpreview.github.io/?https://sayemuzzamansiam.github.io/Bangla-Text-Classification/)
+[**Interactive Report View**](https://htmlpreview.github.io/?https://sayemuzzamansiam.github.io/Bangla-Text-Classification/)
 
 ## 2. Implementation Details
 
